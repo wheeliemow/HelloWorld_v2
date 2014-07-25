@@ -1,0 +1,13 @@
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/bin/Debug/HelloWorld.Droid.dll.mdb
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/bin/Debug/HelloWorld.Droid.dll
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/bin/Debug/HelloWorld.Droid.apk
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/android/bin/HelloWorld.Droid.apk
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/res/layout/main.xml
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/res/values/strings.xml
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/res/drawable/icon.png
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/R.cs.flag
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/bin/Debug/HelloWorld.Droid-Signed.apk
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/uploadflags.txt
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/HelloWorld.Droid.dll
+/Users/programmer1/Projects/HelloWorld/HelloWorld.Droid/obj/Debug/HelloWorld.Droid.dll.mdb

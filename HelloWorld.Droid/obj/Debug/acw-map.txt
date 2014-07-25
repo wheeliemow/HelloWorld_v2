@@ -1,0 +1,1 @@
+HelloWorld.Droid.MainActivity;helloworld.droid.MainActivity
